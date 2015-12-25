@@ -1,4 +1,4 @@
 # robots.txt for http://videos.isc/
 
 User-agent: *
-Disallow: *
+Disallow: /
